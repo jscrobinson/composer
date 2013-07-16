@@ -1,5 +1,5 @@
 {
-    "name": "composer/composer",
+    "name": "jscrobinson/composer",
     "description": "Dependency Manager",
     "keywords": ["package", "dependency", "autoload"],
     "homepage": "http://getcomposer.org/",
